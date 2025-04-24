@@ -9,5 +9,5 @@
   <a href="https://github.com/unyamma"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 
   <br/>
-  <img src="https://s9.travelask.ru/uploads/post/000/035/145/main_image/facebook-aa94bc38b9989f3daae7479729226a18.jpg" style="width:45%"></a>
+  <img src="https://lent.az/storage/news/2024/may/31/big/66598f6913e3d66598f6913e3e171714544966598f6913e3966598f6913e3b.jpg" style="width:45%"></a>
 </p>
